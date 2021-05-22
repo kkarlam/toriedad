@@ -20,4 +20,6 @@ Al abrir la aplicación, avanza presionando el botón siguiente. Una vez que la 
 
 [No-arquitectos](https://github.com/kkarlam/toriedad/blob/main/noarquitectos.jpg) Marcador no-arquitectos,  contiene las respuestas del grupo de los no-arquitectos
 
+
+
 Presionar botón "Respuesta aleatoria", para resaltar aleatoriamente los nodos y vértices correspondientes a alguna de las respuestas según el grupo de respuestas observadas
